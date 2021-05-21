@@ -7,7 +7,7 @@ submit an [issue](https://github.com/bagder/irchistory/issues) or post a
 [pull-request](https://github.com/bagder/irchistory/pulls)!
 
 Feel free to link to [this page](https://daniel.haxx.se/irchistory.html) or
-host it elsewhere. Please keep me credited as author.
+host it elsewhere. Please keep Daniel Stenberg credited as author.
 
 Other stories about [IRC history](http://www.irc.org/history.html).
 
