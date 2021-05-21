@@ -46,8 +46,8 @@ probably wouldn't fit in his program!
 
 Jarkko got in touch with guys at the University of Denver and Oregon State
 University. They had got an IRC network running (they had got the program
-from one of Jarkko's friends, Vijay Subramaniam -- the first non-finnish
-person to use IRC) and wanted to connect to the finnish network.
+from one of Jarkko's friends, Vijay Subramaniam -- the first non-Finnish
+person to use IRC) and wanted to connect to the Finnish network.
 
 IRC then grew larger and got used on the entire Finnish national network -
 Funet - and then connected to Nordunet, the Scandinavian branch of the
@@ -102,7 +102,7 @@ off the EFnet ircd version 2.8.10). It was meant to be just a test
 network to develop bots on but it quickly grew to a network "for friends
 and their friends". In Europe and Canada a separate new network was
 being worked on (by '_dl' and 'WIZZARD') and in December the french
-servers connected to the canadian ones, and in the end of the month, the
+servers connected to the Canadian ones, and in the end of the month, the
 .fr-.ca network was connected to the US one and the network that later
 came to be called "The Undernet" was born.
 
@@ -113,7 +113,7 @@ latter purpose, the Undernet implemented timestamps, new routing and
 offered the CService -- a program that allowed users to register
 channels and then attempted to protect them from troublemakers. (More or
 less a global defense bot.) The very first server list presented, from
-Febrary 15th 1993, includes servers from USA, Canada, France, Croatia
+February 15th 1993, includes servers from USA, Canada, France, Croatia
 and Japan. On August 15th, the new user count record was set to 57
 users.
 
@@ -157,9 +157,9 @@ and more.
 Undernet split (again) in March 1996 when the sole Australian server
 delinked from Undernet because of difficulties with the connection
 across the TransPacific Australian/United States network link. The first
-few months of oz.org's existance were primarily a trial delink from the
+few months of oz.org's existence were primarily a trial delink from the
 Undernet because of the inability to maintain a link during peak usage
-hours. One of the two designers (chaos and seks) of the orginal Undernet
+hours. One of the two designers (chaos and seks) of the original Undernet
 X and W chanserv was Australian, and the same code was used for Oz.org's
 Z (the name of the chanserv). In June 2001, ozorg boasted peak usages of
 4,000 simultaneous users.
@@ -168,8 +168,8 @@ Z (the name of the chanserv). In June 2001, ozorg boasted peak usages of
 
 In July 1996, after months of flame wars and discussions on the mailing
 list, there was yet another split due to disagreement in how the
-development of the ircd should evolve. Most notably, the "european"
-(most of those servers were in europe) side that later named itself
+development of the ircd should evolve. Most notably, the "European"
+(most of those servers were in Europe) side that later named itself
 IRCnet argued for nick and channel delays, where the EFnet side argued
 for timestamps. Most (not all) of the IRCnet servers were in Europe,
 while most of the EFnet server were in the US. This event is also known
@@ -183,7 +183,7 @@ Yet another IRC network that opened its doors in 1998 named the Open
 Projects Network, and had about 100 users and less than 20 channels that
 year. In late 2001 it had grown to nearly 4,000 users and over 1,300
 channels. The OPN uses the Dancer IRCD server, after having been using ircu
-the intial few years.
+the initial few years.
 
 This network was later renamed to <b>Freenode</b>.
 
@@ -215,7 +215,7 @@ protocol.
 ## Further Standardization Attempts
 
 IETF-IRCUP was an initiative started in January 1998, to gather all the
-flavours of IRC servers to document a new RFC and possibly set a new
+flavors of IRC servers to document a new RFC and possibly set a new
 standard for all networks to commit to. That project died.
 
 CTCP/2 was an attempt, started in 1997 by Bjorn Reese, to develop and
@@ -225,7 +225,7 @@ protocol without allowing non-compliant clients to filter the new
 codes. CTCP/2 was meant to define how codes and perhaps more important
 new codes should be introduced in order to let old clients remain
 functional. It was also meant to address the IPv6 problems the DCC
-intiating sequence has. The CTCP/2 project died as well.
+initiating sequence has. The CTCP/2 project died as well.
 
 [IRCv3](https://ircv3.net/) - *"We’re the IRCv3 Working Group – a
 collection of IRC software developers and network staff that develop
@@ -246,7 +246,7 @@ In the beginning of 2011, Quakenet is just above 100,000 users and the
 only network over 100K.
 
 In 2021, Freenode (before its demise) is the largest one with peak of
-90,000 users in Febrary.
+90,000 users in February.
 
 ## Thanks to
 
