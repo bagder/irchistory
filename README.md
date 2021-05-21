@@ -187,7 +187,8 @@ the intial few years.
 
 This network was later renamed to <b>Freenode</b>.
 
-In 2011, it peaks at 65,000 users in 40,000 channels.
+In 2011, it peaked at 65,000 users in 40,000 channels. In 2021 it reached
+90,000 users.
 
 ## libera.chat
 
