@@ -113,7 +113,7 @@ latter purpose, the Undernet implemented timestamps, new routing and
 offered the CService -- a program that allowed users to register
 channels and then attempted to protect them from troublemakers. (More or
 less a global defense bot.) The very first server list presented, from
-Febrary 15th 1993, includes servers from USA, Canada, France, Kroatia
+Febrary 15th 1993, includes servers from USA, Canada, France, Croatia
 and Japan. On August 15th, the new user count record was set to 57
 users.
 
