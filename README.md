@@ -1,12 +1,13 @@
 # History of IRC (Internet Relay Chat)
 
-I've done my very best to gather information from as many sources as
-possible to verify facts, stories and dates. If you have additional
-information, have found errors in my text or just feel like commenting
-anything, email me, submit an [issue](https://github.com/bagder/docs/issues) or post a [pull-request]!
+I've done my very best to gather information from as many sources as possible
+to verify facts, stories and dates. If you have additional information, have
+found errors in my text or just feel like commenting anything, email me,
+submit an [issue](https://github.com/bagder/irchistory/issues) or post a
+[pull-request](https://github.com/bagder/irchistory/pulls)!
 
-Feel free to link to [this page](https://daniel.haxx.se/irchistory.html)
-or host it elsewhere. Please keep me credited as author.
+Feel free to link to [this page](https://daniel.haxx.se/irchistory.html) or
+host it elsewhere. Please keep me credited as author.
 
 Other stories about [IRC history](http://www.irc.org/history.html).
 
