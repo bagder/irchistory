@@ -195,7 +195,7 @@ In 2011, it peaked at 65,000 users in 40,000 channels. In 2021 it reached
 In May 2021, there's a mass admin exodus from Freenode (after
 disagreements with the owner of parts of the infra) and many of the
 admins instead set camp over in the recently created [libera.chat](
-https://libera.chat">libera.chat) network. Many channels formerly on
+https://libera.chat) network. Many channels formerly on
 Freenode follows on over to libera.
 
 ## Other Networks
