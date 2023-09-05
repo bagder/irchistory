@@ -68,7 +68,7 @@ few months before disagreements among the programmers caused it to dissolve.
 ## EFnet
 
 In August 1990 the first major disagreement took place in the IRC
-world. The "A-net" (Anarchy net) included as server named
+world. The "A-net" (Anarchy net) included a server named
 eris.berkeley.edu.  It was all open, required no passwords and had no
 limit on the number of connects. As Greg "wumpus" Lindahl explains: "it
 had a wildcard server line, so people were hooking up servers and
