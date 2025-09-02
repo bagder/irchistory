@@ -260,3 +260,10 @@ this. People that have helped me with this include:
  - Tuomas Heino
  - Richard (eagle`s on undernet)
  - Ari Lemmke
+
+## See Also
+
+The Serial Port's [IRC documentary on
+YouTube](https://www.youtube.com/watch?v=6UbKenFipjo). This documentation and
+me talking to them are reasons for the "special thanks" to me shown in the end
+of the episode.
